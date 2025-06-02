@@ -29,18 +29,29 @@ A basic Flutter application that demonstrates screen navigation, UI components, 
 
 ## 📂 Project Structure
 lib/
-├── main.dart
-├──core.dart
+
+ ├── main.dart
+ 
+ ├──core.dart
+ 
 screens/
-├── home_screen.dart
-└── profile_screen.dart
+
+ ├── home_screen.dart
+ 
+ └── profile_screen.dart
+ 
 widgets/
-└──profile_info_card.dart
+
+ └──profile_info_card.dart
+ 
 assets/
 images/
-└── userIcon3.jpg
+
+ └── userIcon3.jpg
+ 
 fonts/
-└──Prompt-Regular.ttf
+
+ └──Prompt-Regular.ttf
 
 
 # This simple app demonstrates Flutter fundamentals like:
